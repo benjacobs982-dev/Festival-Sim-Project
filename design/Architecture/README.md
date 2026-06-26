@@ -32,6 +32,23 @@
 **Timer** - Responsible for delta time  
 ## UI
 ![UI](UI.png)
+### Layout
+**Horizontal Layout** - Positions child objects horizontally  
+**Vertical Layout** - Positions child objects Vertically  
+**Grid Layout** - Positions child objects in a grid layout  
+### Controls
+**Button** - Calls a funciton when clicked  
+**Checkbox** - Edits a variable based on state  
+**Slider** - Changes a variable between min and max based on position  
+**DropDown** - Displays more buttons on hover  
+**TextInput** - Changes a varible to the given text input  
+### Core
+**Widget** - Base class for all UI elemnts, defines common interface  
+**UIManager** - Owns and manages all widgets, handles loop and input  
+### Display
+**Label** - Displays text to the screen, not editable  
+**ProgessBar** - Displays a barshowing the value of a varaible  
+
 
 ## Map
 ![Map](Map.png)
