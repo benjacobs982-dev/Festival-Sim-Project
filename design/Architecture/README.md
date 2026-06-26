@@ -1,3 +1,18 @@
+# Festival Sim Project
+
+## Architecture Diagrams
+
+### Game Engine
 ![Game Engine](GameEngine.png)
-![Map](Map.png)
+
+### UI
 ![UI](UI.png)
+
+### Map
+![Map](Map.png)
+
+### Pathing
+![Pathing](Pathing.png)
+
+### Agents
+![Agents](Agents.png)
